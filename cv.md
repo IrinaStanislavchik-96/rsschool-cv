@@ -2,10 +2,11 @@
 IRYNA STANISLAUCHYK
 ```
 
+<img src=фото.jpg alt="фото" width="200" height="300">
+
 ```
  Contact information:
  +375 33 612 6169
-
 ```
 
 
@@ -29,12 +30,12 @@ Master degree: The Academy of Public Administration under the Aegis of the Presi
 
 + October 2021- up to now – Autospace LLC: as a Foreign trade specialist and as a purchase manager.
 
-### **Foreign languages**:
+#### **Foreign languages**:
 
 + English - fluent; 
 + Chinese – basic knowledge (approved HSK 2)
 
-***Link to portfolio-website: ![http://b33612rk.beget.tech/index.html]***
+***Link to portfolio-website: http://b33612rk.beget.tech/index.html***
 
-***![http://b33612rk.beget.tech/index.html] ("Link to portfolio-website")***
+
 
