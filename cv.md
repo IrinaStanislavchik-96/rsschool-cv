@@ -2,7 +2,7 @@
 IRYNA STANISLAUCHYK
 ```
 
-<img src=фото.jpg alt="фото" width="200" height="300">
+<img src= https://github.com/IrinaStanislavchik-96/rsschool-cv/blob/95169fb37fb738813e0de99577ca5958f6be658a/%D1%84%D0%BE%D1%82%D0%BE.jpg alt="фото" width="200" height="300">
 
 ```
  Contact information:
