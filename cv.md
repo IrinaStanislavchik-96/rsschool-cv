@@ -1,6 +1,4 @@
-```
-IRYNA STANISLAUCHYK
-```
+## ***IRYNA STANISLAUCHYK***
 
 <img src= https://IrinaStanislavchik-96.github.io/rsschool-cv/фото.jpg alt="фото" width="200" height="300">
 
@@ -10,7 +8,7 @@ IRYNA STANISLAUCHYK
 ```
 
 
-**Education:**
+#### **Education:**
 
 completed IT-Adukar courses in web design; 
 
@@ -22,7 +20,7 @@ Bachelor degree: The Academy of Public Administration under the Aegis of the Pre
 
 Master degree: The Academy of Public Administration under the Aegis of the President of the Republic of Belarus 2018-2019 (major in World economy)
 
-**Working experience**
+#### **Working experience**
 
 + August-September 2017 – KPMG Support, financial data processing specialist (financial statements verification, Excel calculations, Russian-English/English-Russian translation);
 
