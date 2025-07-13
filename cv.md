@@ -4,7 +4,11 @@
 
 ```
  Contact information:
- +375 33 612 6169
+ e-mail: irinastanislavchik@yandex.by
+ discord: Irina_Stanislavchik
+ Github: IrinaStanislavchik-96
+ Telegram: @IrynaStanislauchyk
+
 ```
 
 
